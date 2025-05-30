@@ -69,7 +69,6 @@ fns-news-sentiment-analysis/
 ## 🧠 Tech Stack
 
 - **Language:** Python 3.10+
-- **NLP Tools:** `SpaCy`, `NLTK`, `KeyBERT` *(optional)*
 - **Finance Tools (Planned):** `TA-Lib`, `PyNance`, `TextBlob`
 - **Visualization:** `matplotlib`, `seaborn`, `plotly`
 
@@ -113,13 +112,6 @@ Basic unit test structure is initialized under the `tests/` directory. More test
 * Daily return and correlation visualizations.
 * Deployment-ready dashboard (optional).
 
----
-
-## 🙌 Acknowledgements
-
-This project is part of the **AI Mastery Capstone** at Nova Financial Solutions.
-
----
 
 ## 📬 Contact
 
