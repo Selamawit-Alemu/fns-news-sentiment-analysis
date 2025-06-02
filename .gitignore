@@ -1,1 +1,18 @@
 data/
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore data if needed (optional)
+data/*.csv
