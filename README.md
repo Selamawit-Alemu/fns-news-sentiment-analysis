@@ -35,16 +35,17 @@ fns-news-sentiment-analysis/
 
 ---
 
-## 📊 Current Progress
+
 
 ✅ **Task 1: News Data Exploration**
 - Tokenization, lemmatization, stopword removal using `SpaCy` and `NLTK`.
 - Exploratory analysis of headline distribution, publisher frequency, and keyword patterns.
 - Notebook: [`eda_news_sentiment.ipynb`](notebooks/eda_news_sentiment.ipynb)
 
-🔄 **Upcoming Tasks**
-- **Task 2:** Apply TA-Lib and PyNance to conduct quantitative stock analysis.
-- **Task 3:** Correlate daily sentiment scores with stock price returns using statistical techniques.
+## 🛠️ Tasks Completed
+1. **Sentiment Analysis** using VADER on financial news headlines.
+2. **Stock Return Calculation** using daily closing prices.
+3. **Correlation Analysis** between sentiment and returns (same-day & lagged).
 
 ---
 
@@ -98,12 +99,6 @@ fns-news-sentiment-analysis/
 4. Start exploring notebooks in the `notebooks/` folder.
 
 ---
-
-
-## 🛠️ Tasks Completed
-1. **Sentiment Analysis** using VADER on financial news headlines.
-2. **Stock Return Calculation** using daily closing prices.
-3. **Correlation Analysis** between sentiment and returns (same-day & lagged).
 
 ## 📊 Results
 - Overall correlation: **0.0108**
