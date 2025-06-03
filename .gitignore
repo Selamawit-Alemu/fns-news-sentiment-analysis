@@ -12,6 +12,6 @@ env/
 # Data files
 data/
 *.csv
-
+*.whl
 # System
 .DS_Store

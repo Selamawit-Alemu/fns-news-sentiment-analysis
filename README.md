@@ -99,19 +99,34 @@ fns-news-sentiment-analysis/
 
 ---
 
-## 🧪 Testing
 
-Basic unit test structure is initialized under the `tests/` directory. More tests will be added as functionality expands.
+## 🛠️ Tasks Completed
+1. **Sentiment Analysis** using VADER on financial news headlines.
+2. **Stock Return Calculation** using daily closing prices.
+3. **Correlation Analysis** between sentiment and returns (same-day & lagged).
+
+## 📊 Results
+- Overall correlation: **0.0108**
+- Lagged correlation: **–0.0102**
+- Stock-wise correlations:
+  | Stock | Correlation |
+  |-------|-------------|
+  | AAPL  | 0.0453      |
+  | AMZN  | –0.0015     |
+  | GOOG  | 0.0247      |
+  | META  | –0.0106     |
+  | MSFT  | 0.0281      |
+  | NVDA  | 0.0267      |
+  | TSLA  | –0.0158     |
+
+## 📦 Dependencies
+
 
 ---
 
-## 📈 Future Enhancements
+### ✅ Step 3: `.gitignore`
 
-* Full integration of TA-Lib indicators (MACD, RSI, SMA).
-* Sentiment scoring using `TextBlob` and `VADER`.
-* Daily return and correlation visualizations.
-* Deployment-ready dashboard (optional).
-
+Create this file and add:
 
 ## 📬 Contact
 
