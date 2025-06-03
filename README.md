@@ -113,15 +113,7 @@ fns-news-sentiment-analysis/
   | MSFT  | 0.0281      |
   | NVDA  | 0.0267      |
   | TSLA  | –0.0158     |
-
-## 📦 Dependencies
-
-
 ---
-
-### ✅ Step 3: `.gitignore`
-
-Create this file and add:
 
 ## 📬 Contact
 
